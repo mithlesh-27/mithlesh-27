@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mithlesh-27
-- 👀 I’m interested in Ethical hacking and cyber security and network ananlysis.
-- 🌱 I’m currently learning ethical hacking.
+- 👀 I am a Front end developer and a cyber security analyst.
+- 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on network analysis and linux baesd tools
 - 📫 How to reach me mail me 'mithleshmiku@gmail.com'
 
