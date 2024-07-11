@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mithlesh-27
-- 👀 I am a Front end developer and a cyber security analyst.
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on network analysis and linux baesd tools
-- 📫 How to reach me mail me 'mithleshmiku@gmail.com'
+- 👋 Hi, I’m Mithlesh Kushwaha
+- 👀 I am a Front end developer and Cloud Engineer.
+- 🌱 I’m currently learning New technologies.
+- 💞️ I’m looking to collaborate to related topics Web Development and Cloud 
+- 📫 You can reach me mail me 'mithleshmiku@gmail.com'
 
 <!---
 mithlesh-27/mithlesh-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
